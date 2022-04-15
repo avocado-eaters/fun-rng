@@ -1,2 +1,2 @@
 # fun-rng
- A fun random number generator! :dice:
+ A fun random number generator! :game_die:
